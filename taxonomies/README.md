@@ -13,7 +13,7 @@
 ```xml
 <encodingDesc>
   <taxonomy xml:id="gran-ref"
-            source="https://username.github.io/tei-project/taxonomies/granularity-taxonomy.xml">
+            source="https://kaoriasama.github.io/TEI-Literature-project/taxonomies/granularity-taxonomy.xml">
     <catRef target="gran-scale"/>
   </taxonomy>
 </encodingDesc>

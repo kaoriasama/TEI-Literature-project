@@ -1,0 +1,24 @@
+<!-- granularity-taxonomy.xml -->
+<taxonomy xml:id="gran-scale" xmlns="http://www.tei-c.org/ns/1.0">
+  <category xml:id="gran-0">
+    <catDesc>観念的空間</catDesc>
+  </category>
+  <category xml:id="gran-1">
+    <catDesc>量子レベル</catDesc>
+  </category>
+  <category xml:id="gran-1.1">
+    <catDesc>素粒子・量子場</catDesc>
+  </category>
+  <category xml:id="gran-5">
+    <catDesc>人物・身体・服飾</catDesc>
+  </category>
+  <category xml:id="gran-7">
+    <catDesc>都市・地域</catDesc>
+  </category>
+  <category xml:id="gran-10">
+    <catDesc>銀河スケール</catDesc>
+  </category>
+  <category xml:id="gran-12">
+    <catDesc>多元宇宙</catDesc>
+  </category>
+</taxonomy>

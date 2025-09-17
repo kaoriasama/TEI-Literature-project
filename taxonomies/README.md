@@ -11,12 +11,19 @@
 各作品のTEIファイルでは、`<encodingDesc>` 内に以下のように記述してください。  
 
 ```xml
-<encodingDesc>
-  <taxonomy xml:id="gran-ref"
-            source="https://kaoriasama.github.io/TEI-Literature-project/taxonomies/granularity-taxonomy.xml">
-    <catRef target="gran-scale"/>
-  </taxonomy>
-</encodingDesc>
+  <profileDesc>
+　　 <textClass>
+　　　 <catRef target="gran-scale"/>
+　　 </textClass>
+  </profileDesc>
+  <encodingDesc>
+     <classDecl>
+　 　　<taxonomy xml:id="gran-ref"
+                source="https://kaoriasama.github.io/TEI-Literature-project/taxonomies/granularity-taxonomy.xml">
+　　 　　<desc>Shared granularity taxonomy (external reference)</desc>
+　　　 </taxonomy>
+     </classDecl>
+  </encodingDesc>
 ```
 ### 2. 本文中で粒度を指定する
 

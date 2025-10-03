@@ -1,24 +1,57 @@
 <!-- granularity-taxonomy.xml -->
 <taxonomy xml:id="gran-scale" xmlns="http://www.tei-c.org/ns/1.0">
+  <!-- 観念的空間 -->
   <category xml:id="gran-0">
-    <catDesc>観念的空間</catDesc>
+    <catDesc>観念的空間（心象・夢・表象など）</catDesc>
   </category>
+  <!-- 微視的空間 -->
   <category xml:id="gran-1">
-    <catDesc>量子レベル</catDesc>
+    <catDesc>量子レベル基準</catDesc>
   </category>
   <category xml:id="gran-1.1">
     <catDesc>素粒子・量子場</catDesc>
   </category>
+  <category xml:id="gran-1.2">
+    <catDesc>原子核（核子、陽子、中性子）</catDesc>
+  </category>
+  <category xml:id="gran-1.3">
+    <catDesc>原子・分子</catDesc>
+  </category>
+  <category xml:id="gran-2">
+    <catDesc>細胞・生物学的ミクロ</catDesc>
+  </category>
+  <category xml:id="gran-3">
+    <catDesc>臓器・器官スケール</catDesc>
+  </category>
+  <category xml:id="gran-4">
+    <catDesc>小動物・部分的身体スケール</catDesc>
+  </category>
+
+  <!-- 人間スケール -->
   <category xml:id="gran-5">
-    <catDesc>人物・身体・服飾</catDesc>
+    <catDesc>人物・身体・服飾スケール</catDesc>
+  </category>
+
+  <!-- 人間を超えるスケール -->
+  <category xml:id="gran-6">
+    <catDesc>建物・部屋・家具スケール</catDesc>
   </category>
   <category xml:id="gran-7">
-    <catDesc>都市・地域</catDesc>
+    <catDesc>都市・地域スケール</catDesc>
+  </category>
+  <category xml:id="gran-8">
+    <catDesc>国家・大陸スケール</catDesc>
+  </category>
+  <category xml:id="gran-9">
+    <catDesc>惑星・衛星スケール</catDesc>
   </category>
   <category xml:id="gran-10">
-    <catDesc>銀河スケール</catDesc>
+    <catDesc>太陽系・銀河スケール</catDesc>
+  </category>
+  <category xml:id="gran-11">
+    <catDesc>銀河系外・宇宙スケール</catDesc>
   </category>
   <category xml:id="gran-12">
-    <catDesc>多元宇宙</catDesc>
+    <catDesc>多元宇宙・仮想宇宙スケール</catDesc>
   </category>
 </taxonomy>

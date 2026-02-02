@@ -36,15 +36,68 @@
   <category xml:id="gran-6">
     <catDesc>建物・部屋・家具スケール</catDesc>
   </category>
+  <category xml:id="gran-6.3">
+    <catDesc>公共施設スケール</catDesc>
+  </category>
+  <category xml:id="gran-6.5">
+    <catDesc>農耕地・景勝地スケール</catDesc>
+  </category>
+  <category xml:id="gran-6.6">
+    <catDesc>村スケール</catDesc>
+  </category>
+    <category xml:id="gran-6.7">
+    <catDesc>区スケール</catDesc>
+  </category>
+  <category xml:id="gran-6.8">
+    <catDesc>一地域未満の大域スケール（道路や領域など）</catDesc>
+  </category>
+  <category xml:id="gran-6.9">
+    <catDesc>町スケール</catDesc>
+  </category>  
+  
   <category xml:id="gran-7">
     <catDesc>都市・地域スケール</catDesc>
   </category>
+  
   <category xml:id="gran-8">
-    <catDesc>国家・大陸スケール</catDesc>
+    <catDesc>小国家スケール</catDesc>
   </category>
+    <category xml:id="gran-8.1">
+    <catDesc>小島スケール</catDesc>
+  </category>
+  <category xml:id="gran-8.2">
+    <catDesc>町複数の島・小列島スケール</catDesc>
+  </category>
+  <category xml:id="gran-8.3">
+    <catDesc>地方スケール</catDesc>
+  </category>
+    <category xml:id="gran-8.4">
+    <catDesc>小国家/県・州スケール</catDesc>
+  </category>
+  <category xml:id="gran-8.5">
+    <catDesc>国土分割スケール</catDesc>
+  </category>
+<category xml:id="gran-8.6">
+    <catDesc>中規模国スケール</catDesc>
+  </category>
+<category xml:id="gran-8.7">
+    <catDesc>中規模国土複合スケール</catDesc>
+  </category>
+<category xml:id="gran-8.8">
+    <catDesc>大陸分割スケール</catDesc>
+  </category>
+  <category xml:id="gran-8.9">
+    <catDesc>大陸スケール</catDesc>
+  </category>
+
   <category xml:id="gran-9">
+    <catDesc>大陸複合スケール</catDesc>
+  </category>
+    <category xml:id="gran-9.1">
     <catDesc>惑星・衛星スケール</catDesc>
   </category>
+
+  
   <category xml:id="gran-10">
     <catDesc>太陽系・銀河スケール</catDesc>
   </category>

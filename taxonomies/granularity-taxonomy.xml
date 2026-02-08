@@ -24,55 +24,91 @@
     <catDesc>臓器・器官スケール</catDesc>
   </category>
   <category xml:id="gran-4">
-    <catDesc>小動物・部分的身体スケール</catDesc>
+    <catDesc>小動物・部分的身体・服飾・身体スケール</catDesc>
   </category>
 
   <!-- 人間スケール -->
-  <category xml:id="gran-5">
-    <catDesc>人物・身体・服飾スケール</catDesc>
+  <category xml:id="gran-5.0">
+    <catDesc>子供スケール</catDesc>
   </category>
-
-  <!-- 人間を超えるスケール -->
-  <category xml:id="gran-6">
-    <catDesc>建物・部屋・家具スケール</catDesc>
+  <category xml:id="gran-5.1">
+    <catDesc>成人スケール</catDesc>
   </category>
-  <category xml:id="gran-6.3">
-    <catDesc>公共施設スケール</catDesc>
+<category xml:id="gran-5.2">
+    <catDesc>人間より大きな家具スケール</catDesc>
   </category>
-  <category xml:id="gran-6.5">
-    <catDesc>農耕地・景勝地スケール</catDesc>
+<category xml:id="gran-5.3">
+    <catDesc>小さい部屋・空間スケール</catDesc>
   </category>
-  <category xml:id="gran-6.6">
+<category xml:id="gran-5.4">
+    <catDesc>複数人が密着しなくて済む部屋スケール</catDesc>
+  </category>
+<category xml:id="gran-5.5">
+    <catDesc>住居・大広間スケール</catDesc>
+  </category>
+<category xml:id="gran-5.6">
+    <catDesc>館・公共施設スケール</catDesc>
+  </category>
+<category xml:id="gran-5.7">
+    <catDesc>城・ビル・鳥瞰スケール</catDesc>
+  </category>
+<category xml:id="gran-5.8">
+    <catDesc>集落・小規模キャンパススケール</catDesc>
+  </category>  
+<category xml:id="gran-5.9">
+    <catDesc>小さな商店街スケール</catDesc>
+  </category>
+<category xml:id="gran-6.0">
+    <catDesc>大きな商業施設・スタジアムなどの公共施設スケール</catDesc>
+  </category>
+<category xml:id="gran-6.1">
+    <catDesc>小島・農園・テーマパークスケール</catDesc>
+  </category>
+<category xml:id="gran-6.2">
+    <catDesc>小山・近隣住区スケール</catDesc>
+  </category>
+<category xml:id="gran-6.3">
     <catDesc>村スケール</catDesc>
-  </category>
-    <category xml:id="gran-6.7">
+  　</category>
+<category xml:id="gran-6.4">
     <catDesc>区スケール</catDesc>
-  </category>
-  <category xml:id="gran-6.8">
+  　</category>
+<category xml:id="gran-6.5">
     <catDesc>一地域未満の大域スケール（道路や領域など）</catDesc>
   </category>
-  <category xml:id="gran-6.9">
+<category xml:id="gran-6.6">
     <catDesc>町スケール</catDesc>
+  </category>
+<category xml:id="gran-6.7">
+    <catDesc>小都市スケール</catDesc>
+  </category>
+<category xml:id="gran-6.8">
+    <catDesc>自治体・行政区スケール</catDesc>
+  </category>
+<category xml:id="gran-6.9">
+    <catDesc>地方スケール</catDesc>
   </category>  
-  
   <category xml:id="gran-7">
-    <catDesc>都市・地域スケール</catDesc>
+    <catDesc>地方都市スケール</catDesc>
+  </category>
+  <category xml:id="gran-7.5">
+    <catDesc>都市圏スケール</catDesc>
   </category>
   
   <category xml:id="gran-8">
     <catDesc>小国家スケール</catDesc>
   </category>
     <category xml:id="gran-8.1">
-    <catDesc>小島スケール</catDesc>
-  </category>
-  <category xml:id="gran-8.2">
     <catDesc>町複数の島・小列島スケール</catDesc>
   </category>
-  <category xml:id="gran-8.3">
+  <category xml:id="gran-8.2">
     <catDesc>地方スケール</catDesc>
   </category>
+  <category xml:id="gran-8.3">
+    <catDesc>小国家/メトロポリス/県・州スケール</catDesc>
+  </category>
     <category xml:id="gran-8.4">
-    <catDesc>小国家/県・州スケール</catDesc>
+    <catDesc>数県・州スケール</catDesc>
   </category>
   <category xml:id="gran-8.5">
     <catDesc>国土分割スケール</catDesc>

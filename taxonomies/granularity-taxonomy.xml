@@ -47,16 +47,16 @@
     <catDesc>住居・大広間スケール</catDesc>
   </category>
 <category xml:id="gran-5.6">
-    <catDesc>館・公共施設スケール</catDesc>
+    <catDesc>館・公共施設・雑居ビル・小径スケール</catDesc>
   </category>
 <category xml:id="gran-5.7">
-    <catDesc>城・ビル・鳥瞰スケール</catDesc>
+    <catDesc>小さな商店街・商業施設・広い道スケール</catDesc>
   </category>
 <category xml:id="gran-5.8">
-    <catDesc>集落・小規模キャンパススケール</catDesc>
-  </category>  
+    <catDesc>城・高層ビル・鳥瞰・目抜通りスケール</catDesc>
+  </category>
 <category xml:id="gran-5.9">
-    <catDesc>小さな商店街スケール</catDesc>
+    <catDesc>集落・小規模キャンパススケール</catDesc>
   </category>
 <category xml:id="gran-6.0">
     <catDesc>大きな商業施設・スタジアムなどの公共施設スケール</catDesc>
@@ -83,16 +83,16 @@
     <catDesc>小都市スケール</catDesc>
   </category>
 <category xml:id="gran-6.8">
-    <catDesc>自治体・行政区スケール</catDesc>
-  </category>
-<category xml:id="gran-6.9">
-    <catDesc>地方スケール</catDesc>
-  </category>  
-  <category xml:id="gran-7">
     <catDesc>地方都市スケール</catDesc>
   </category>
-  <category xml:id="gran-7.5">
+<category xml:id="gran-6.9">
     <catDesc>都市圏スケール</catDesc>
+  </category>  
+  <category xml:id="gran-7">
+    <catDesc>自治体・行政区スケール</catDesc>
+  </category>
+  <category xml:id="gran-7.5">
+    <catDesc>地方スケール</catDesc>
   </category>
   
   <category xml:id="gran-8">

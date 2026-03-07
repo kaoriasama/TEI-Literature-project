@@ -74,10 +74,10 @@
     <catDesc>町・山スケール</catDesc>
   </category>
   <category xml:id="gran-6.5">
-    <catDesc>小都市・日本の区スケール</catDesc>
+    <catDesc>小都市・山間・日本の区スケール</catDesc>
   </category>
   <category xml:id="gran-6.6">
-    <catDesc>地方都市・山間スケール</catDesc>
+    <catDesc>地方都市スケール</catDesc>
   </category>
   <category xml:id="gran-6.7">
     <catDesc>大都市・河川の特定の流域などスケール</catDesc>
